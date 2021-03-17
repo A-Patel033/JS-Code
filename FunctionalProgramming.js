@@ -57,7 +57,7 @@
 // //******************************************************* */
 
 //  The global variable
-// var s = [23, 65, 98, 5];
+// var s = [23, 65, 98, 5];   
 
 // Array.prototype.myFilter = function(callback) {
 
