@@ -25,7 +25,7 @@
 //   { name: "Mont Blanc", height: 4808, place: "Italy/France" }
 // ];
 
-// function addTable(data) {
+// function addTable(data) { 
 //   let table = document.createElement("table");
 //   table.style.border = "2px solid black";
 //   table.style.padding = "0px";
